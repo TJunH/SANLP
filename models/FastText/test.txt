@@ -144,7 +144,6 @@ __label__positive well thank phone
 __label__positive would take photo stuf anim pretti funni
 __label__neutral tweetdeck act realli strang hum reinstal mayb updat horizon anoth adob memori leak
 __label__positive tikcet want go
-__label__positive happi mother day
 __label__negative gon na hot today today ryan last day pre k believ sahm sinc
 __label__neutral dream weekend awak
 __label__negative oh return supermarket doom find noth drink
@@ -361,7 +360,6 @@ __label__positive lovelytrinket like way word rocki road
 __label__positive mexican coca cola bottl new favorit thing high fructos corn syrup sugar awesom old school
 __label__negative got peopl let skip sci pratic beco skola impt dont wast parent money nt fair
 __label__neutral noth witti say
-__label__neutral 
 __label__neutral hi ho hi ho work go
 __label__positive thank hint
 __label__positive u welcom babe kill show yuuupp
@@ -888,7 +886,6 @@ __label__positive beauti day got first class
 __label__positive fabul get pic gmail act fool sometim u dm
 __label__neutral yeah terribl cockatoo hardest live emot good thing found though
 __label__negative suck
-__label__positive ye
 __label__positive datti thank sankar ur wish
 __label__positive love wake think weekday realiz weekend
 __label__negative sorri bout cat
@@ -896,7 +893,6 @@ __label__neutral person join penileword
 __label__positive wash cloth type xd woooo
 __label__negative miss u still club u know west coast
 __label__positive love love love pot psycolog friday night treat
-__label__positive happi star war day may fourth
 __label__neutral play lighter fire match grass
 __label__positive art would one awesom sauc
 __label__neutral bucki ferret offici insulinoma daili prednison interview p doc today go back monday test
@@ -910,7 +906,6 @@ __label__neutral thank alen seem submit commun news error must prove
 __label__negative follow ruin twitter experi
 __label__negative blah car repair almost dollar shop around better deal
 __label__positive weetabix choco milk yum
-__label__neutral 
 __label__negative sad lost anoth person close cancer
 __label__neutral thank kinda bittersweet though
 __label__positive nutbar good morn twittertakeov
@@ -918,7 +913,6 @@ __label__neutral first time twitter
 __label__neutral captain jack back
 __label__negative la ben dream make saddddddd want togetherrr swear get bawlinggg help
 __label__neutral internet fast slow fast connect go
-__label__neutral 
 __label__negative year old barbi doll still rock girl h ken bad either memori
 __label__negative weather make finger numb still wait
 __label__positive lol yeah ima mama thank happi mama day laker day love
@@ -1200,7 +1194,6 @@ __label__neutral babi need right right
 __label__positive umm get readi help mum give gj present get could wait peopl arriv parti
 __label__neutral togeth
 __label__neutral anoth prof pic
-__label__positive happi mother day mom
 __label__neutral gon na buy one two three ultim slaughter machin
 __label__negative asylm yay regist lost friend
 __label__positive church bellss ringin got go adieu god bless german
@@ -1226,7 +1219,6 @@ __label__neutral trump casino vega
 __label__neutral jimski book ye
 __label__neutral ilook phone book ur name first show like got ti ti number ur email
 __label__neutral ask karma point pleas
-__label__neutral 
 __label__neutral offici book seattl go best birthday weekend ever made sad
 __label__neutral carter link doesnt work
 __label__neutral awww mother day gone work today witht camera littl hope
@@ -1281,7 +1273,6 @@ __label__negative head pool around ish seriou garden go tweetdeck til sunday eve
 __label__negative sick rig tomorrow
 __label__negative go dread dmv tomorrow
 __label__negative way nottingham icof tonight gig umtil download fail
-__label__neutral 
 __label__neutral jasper clip first favorit twitter messag
 __label__negative hey r u back la right ur favorit part bout europ never countri xcept canada xo jenna
 __label__neutral quiet unfortunatli hell good chill right
@@ -1325,7 +1316,6 @@ __label__positive yeahhh u got plenti great fan spain u come play gig
 __label__neutral lunch alreadi ur lil late buddi
 __label__negative ugh noth valley serious got ta move
 __label__neutral keyboard cat dead year play keyboard cat
-__label__neutral 
 __label__neutral delici let walk sometim hubbi other miss
 __label__neutral sorri jj miss post make sure next time
 __label__negative deg c tech room major downsid lot heat help hot outsid
@@ -1351,7 +1341,6 @@ __label__neutral woke make breakfast
 __label__neutral formerli pretti car
 __label__neutral thought hubbi deploy n got blue need stiff drink breastfeed booz ugh
 __label__positive need motiv life oh love would nice
-__label__positive welcom
 __label__negative wait start weekend sick work self medic fresh herb
 __label__negative itx credit unfortun
 __label__negative ugli gray outsid even san diego cold get may gray june gloom us
@@ -1410,7 +1399,6 @@ __label__neutral excit tomorrow got ta clean hous clean clean clean ahhhhhhh
 __label__positive fam well hope
 __label__negative blond keep fail driver licens test everytim stop jump back seat
 __label__positive come rochest nikki beer hog roast alway help
-__label__positive thank
 __label__neutral slowli crunch realiti june fast approach word class anoth year ad age
 __label__neutral guess r sleepin
 __label__negative put mohawk son head kill vibe alway
@@ -1458,7 +1446,6 @@ __label__negative wan na crawl desk take nap nvrmind dirti
 __label__neutral gon na go see sister mount saini least anoth hour
 __label__negative okay somepleas save watch ninja warrier eat egg roll last night
 __label__neutral still bed laptop yep borin
-__label__positive happi mother day
 __label__neutral look girl name easier look boy
 __label__positive excel point
 __label__positive oh twa brilliant idea say say idea woman
@@ -1495,7 +1482,6 @@ __label__positive haha agre test dummi go say whatev want alway love magic
 __label__negative dont work saturday suppos hang friend watch still hang jona
 __label__negative go tmobil need new phone g work anymor
 __label__neutral raaaaaaaaaaagh earli morn even earli must leav work minut
-__label__neutral go
 __label__negative ooo yuk that good im retch tweet
 __label__negative mm film usual handl fuji oh met girl san diego kwento soon miss youuu
 __label__neutral lol that p less ive got toward cruis
@@ -1521,7 +1507,6 @@ __label__positive heao keen next weekend mummi
 __label__negative hate stupid boy arrgh
 __label__neutral hi ms fussi wave
 __label__negative hope take quot person throw day guess shoulda wait bit
-__label__neutral 
 __label__positive sound like great time
 __label__neutral spell name wrong messag receiv
 __label__neutral email pic ur labtop wana put one background
@@ -1554,7 +1539,6 @@ __label__negative wake pleas
 __label__positive would applaud self valid sort good theolog psycholog sociolog reason agre lighten
 __label__neutral realli alumnu know mac yet
 __label__negative im sorri
-__label__neutral rain
 __label__negative lol exam go mcast school finish form soo disappoint
 __label__negative messag teas isnt fair
 __label__neutral way comment site unless member
@@ -1579,7 +1563,6 @@ __label__neutral cant find shoe hope bad itll get nite im happi
 __label__negative get readi tonight teacher dinner beach rain hate
 __label__neutral got
 __label__neutral know told didnt want stay home lie realli want stay home
-__label__negative happi
 __label__neutral gaba haha think let topic drop quick poll would settl matter believ
 __label__positive wish see clip show host hotti shawn ye still hotti
 __label__positive bright side school
@@ -1971,7 +1954,6 @@ __label__negative sorri hear
 __label__positive hey pretti good suck daughter exactli glad see alon good luck mom
 __label__neutral lester guess yester day think someth cop out
 __label__neutral start account year
-__label__positive say happi mother day mom
 __label__neutral yay particular
 __label__neutral work watch later even though
 __label__negative oh final msg review boardgam bookchas telli even get nice letter
@@ -2026,7 +2008,6 @@ __label__negative sabido nada de ti make bit sad must say
 __label__negative miss math trade
 __label__positive wellington monet exhibit casual bump wayn bradi hotel lobbi mega excit
 __label__neutral bed girl
-__label__neutral 
 __label__positive queen like
 __label__neutral think blog list
 __label__negative go die tomorrow night
@@ -2069,7 +2050,6 @@ __label__neutral awesom ruin white cloth never rememb separ
 __label__neutral weird wake bed slightli comfort miss group love use pillow
 __label__neutral skip could get messi rofl
 __label__positive comput geek entertain think
-__label__negative miss
 __label__positive good sentenc
 __label__negative make peopl unhappi dun like unhappi
 __label__negative oh god look use twitter hopeless
@@ -2170,12 +2150,9 @@ __label__neutral lmao yep
 __label__negative aaaaaaaa hate winshit
 __label__negative ugh hate car miss littl ford focu
 __label__positive everi mom mommi mother happi mother day hope someth special fun today
-__label__neutral go work
 __label__positive soo love beyonc song smash
 __label__neutral back pakistan
-__label__neutral 
 __label__neutral huge headach goodnight
-__label__negative suck
 __label__neutral said
 __label__positive good time must sleep lol gym danc rehears like hour
 __label__neutral trip realli great cant beliv summer
@@ -2368,7 +2345,6 @@ __label__neutral made wish
 __label__negative listen maylen wonder cant pull mani cool southern metal lick
 __label__negative poor toni come play scrabbl facebook
 __label__neutral awe
-__label__neutral follow
 __label__positive love app thing hella awesom bro
 __label__positive ah gotcha well curiou hear thought wolverin actual went saw
 __label__positive need buy iphon good app work wi fi though
@@ -2409,7 +2385,6 @@ __label__neutral love pleas leav pink
 __label__positive thank answer wonder whole week
 __label__negative back time wish teenag wish could feel healthi rememb like feel healthi anymor
 __label__positive wish would say unfollow
-__label__positive happi mother day
 __label__positive phase success self discoveri vital phase min away cool classi babi shout yeah mane
 __label__positive preet haha one mani reason love
 __label__positive alway welcom sweeti hug
@@ -2625,7 +2600,6 @@ __label__neutral p cull hand esp follow spam one nsfw link click made cut though
 __label__negative wtf advertis gone mad want access camera microphon amazon realli know better
 __label__neutral would cri littl wait mean mechan armi would pleas proper represent x
 __label__positive gooood morn
-__label__positive happi mother day
 __label__negative cankl sore
 __label__negative kuala lumpur know vanish haha broke last boyfriend back
 __label__positive haha good bet
@@ -2642,7 +2616,6 @@ __label__negative r u yvonn seen u googl group day miss ya
 __label__neutral wish saturday night fever stay lastnit whole thing
 __label__negative scare bruis
 __label__negative think dream howev memori suck mayb
-__label__neutral 
 __label__neutral nope way home
 __label__positive aw song make think girl scout
 __label__neutral ye tri post pic
@@ -2696,7 +2669,6 @@ __label__neutral u win u alway roll pass lol anyon take
 __label__neutral let guess antiqu collect anywher els like
 __label__neutral final beauti sunni day atlanta bad stuck insid work
 __label__neutral thank iphon kept till
-__label__neutral sure
 __label__neutral well question blog post
 __label__negative omgosh degre sweat miser gon na visit atx need ac need ac
 __label__negative could call told person humili front whole twittervers
@@ -2862,14 +2834,12 @@ __label__neutral ooh new bonker tomorrow nearli forgot
 __label__positive sure fan week wow guess soon overtak malaysian page
 __label__neutral im tire sick better sunday sing morn night
 __label__positive love video da funk daft punk
-__label__positive love
 __label__positive pack gym bag gym bit squee happiest whem go
 __label__positive happi mother day mommi love much dono id without
 __label__neutral homework studi guid
 __label__negative grrr hate make careless mistak doc give partner
 __label__neutral least breakthrough perform tho want nomin categori
 __label__neutral version sold regular version
-__label__neutral gone
 __label__neutral rug man hi vishal
 __label__neutral final use internet explor firefox issu back normal tweet
 __label__neutral friday work weekend
@@ -2896,8 +2866,6 @@ __label__positive haha dork sound yummi share
 __label__negative ahhh think leg burnt hurt
 __label__negative trashi sensationalist ye
 __label__neutral hahaha ur gon na tweet awok night haha man concert suck cali da place
-__label__positive happi star war day
-__label__positive thank follow
 __label__positive love jumper
 __label__negative oh fml prob gunna shepard bush hate
 __label__neutral unfortunatli start make way home via singapor gig fun yet
@@ -2963,7 +2931,6 @@ __label__positive rofl u hahaha lem tell salman munir p p
 __label__positive yea way go super excit great midwest resourc midwest pride
 __label__positive hi net yayi im short time though
 __label__positive love sunshin wish poor richi would feel better
-__label__neutral 
 __label__negative heyi si year month still want walk
 __label__negative hey site go listen web stream get site
 __label__negative mind race b c word wrote hate hate keep fall
@@ -3005,7 +2972,6 @@ __label__positive ohhh realli want see coralin seem realli good
 __label__negative cold
 __label__neutral fatti omg found worst idk need talk hope see get work
 __label__negative picki precis might find interest talk
-__label__neutral awe
 __label__positive succes love
 __label__neutral yeaaaah tangerang vacat
 __label__neutral yah
@@ -3029,7 +2995,6 @@ __label__positive know yet word hope though good stuff happen late get excit
 __label__positive wow pretti x
 __label__neutral great never good jump rope
 __label__neutral cast true blood
-__label__neutral morn
 __label__positive new phone zero contact poo send messag name save number thank
 __label__neutral work someth excit tweet sever month
 __label__positive u great alway east germani noko least provok go kill
@@ -3048,7 +3013,6 @@ __label__neutral back home funer wife grandfath today time homework
 __label__positive new hair go greeattt use
 __label__negative test anoth updat sorri bother u guy
 __label__neutral call night talk yall tomorrow
-__label__negative suck
 __label__positive happi mother day mom mother world
 __label__neutral want join drama practic today
 __label__neutral breakupword chang
@@ -3126,7 +3090,6 @@ __label__positive go town later get birthday present ipod touch nice think
 __label__negative bed head stop give pain ahgg let sinu allergi whatev tomorrow sogni oro
 __label__positive bu stop alway big pile loogi gross
 __label__positive well keep post come fulli thank
-__label__positive happi star war day
 __label__positive thank come tonight hope ya fun
 __label__neutral mean give lol finger crash car lol jk that bad ignor
 __label__positive thing look better better think might quit happi
@@ -3143,7 +3106,6 @@ __label__neutral franc cheri
 __label__negative made cri poor holli
 __label__neutral ok time head urban outfitt see catch eye head home sinc rain hinder pic day
 __label__negative realli annoy work appear block facebook
-__label__neutral mother day
 __label__positive printchick thx sharen luv
 __label__neutral deleg eat pate toast wife edit yesterday engag shoot
 __label__negative ha think realli lost time get readi work
@@ -3184,7 +3146,6 @@ __label__negative meh feel fine crazi minut sick session hungri
 __label__neutral sun
 __label__positive well hope someday soon get one
 __label__negative sooooo much stress late
-__label__negative 
 __label__neutral tune listen meet know high school colleg french cut anymor
 __label__neutral chronic ill blog let know post link
 __label__positive weekend get close bad stuck north hope abl get next weekend real life fun
@@ -3297,7 +3258,6 @@ __label__negative sorri bro rough
 __label__positive excel chiang mai definit possibl next vacat stop thank info
 __label__negative grr allow ga grill live suck
 __label__negative oh sorri hear
-__label__positive love
 __label__positive definit come hope ur readi
 __label__negative much homework think go hide corner cri
 __label__negative sad david leav tomoro week
@@ -3371,7 +3331,6 @@ __label__negative spent last year larg ambival w dev practic feel care factor re
 __label__positive back first k run race still aliv
 __label__neutral curs upon ridicul slow internetz work dang imag load
 __label__neutral okay reason buy app hate ea stand simciti rock though
-__label__positive fun
 __label__positive wed recept fun thought
 __label__positive notic new sidebar twitter com look nice
 __label__neutral put name list
@@ -3392,7 +3351,6 @@ __label__negative im mad cuz cant get pictur work
 __label__negative worst
 __label__negative shoe hurt feet
 __label__neutral first fight
-__label__neutral back work
 __label__positive beauti nice day stuck insid
 __label__negative disappoint
 __label__neutral aarg look like go home vega weekend much maker fair
@@ -3532,1284 +3490,3 @@ __label__positive alon old hous thank net keep aliv kick whoever invent net wan 
 __label__negative know mean littl dog sink depress want move someplac tropic
 __label__positive sutra next youtub video gon na love video
 __label__positive omgssh ang cute ng bbi
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
-__label__nan nan
